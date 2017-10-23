@@ -1,0 +1,7 @@
+*.idea
+.idea
+.DS_Store
+*.bak
+*.pyc
+*.py~
+*.py#
